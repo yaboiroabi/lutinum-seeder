@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.bashrc": "cpp",
+        "*.json": "jsonc",
+        "iosfwd": "cpp"
+    }
+}
